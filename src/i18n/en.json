@@ -106,11 +106,11 @@
   "faq": {
     "title": "FAQ",
     "items": [
-      { "q": "How is Aset different?", "a": "Aset isn't just another investment platform—it's powered by real-time AI that adapts to market changes, automates your strategies, and constantly refines your portfolio. Unlike traditional tools that rely on static inputs or manual actions, Aset helps you move faster, smarter, and with far more clarity." },
-      { "q": "Is Aset suitable for beginners?", "a": "Absolutely! Aset is designed for users of all experience levels. Our intuitive interface and AI-guided recommendations make it easy for beginners to get started, while advanced users can access powerful customization options." },
-      { "q": "How secure is my data and portfolio on Aset?", "a": "Security is our top priority. We use bank-level encryption, two-factor authentication, and regular security audits to ensure your data and investments are always protected." },
+      { "q": "How is APXLBS different?", "a": "APXLBS isn't just another investment platform—it's powered by real-time AI that adapts to market changes, automates your strategies, and constantly refines your portfolio. Unlike traditional tools that rely on static inputs or manual actions, APXLBS helps you move faster, smarter, and with far more clarity." },
+      { "q": "Is APXLBS suitable for beginners?", "a": "Absolutely! APXLBS is designed for users of all experience levels. Our intuitive interface and AI-guided recommendations make it easy for beginners to get started, while advanced users can access powerful customization options." },
+      { "q": "How secure is my data and portfolio on APXLBS?", "a": "Security is our top priority. We use bank-level encryption, two-factor authentication, and regular security audits to ensure your data and investments are always protected." },
       { "q": "Can I customize my investment strategy?", "a": "Yes! You can set your risk tolerance, investment goals, and preferences. Our AI will then tailor strategies specifically for your profile while allowing manual adjustments at any time." },
-      { "q": "What kind of assets can I manage with Aset?", "a": "Aset supports a wide range of assets including stocks, ETFs, bonds, cryptocurrencies, and alternative investments. Our platform is designed to help you build a truly diversified portfolio." }
+      { "q": "What kind of assets can I manage with APXLBS?", "a": "APXLBS supports a wide range of assets including stocks, ETFs, bonds, cryptocurrencies, and alternative investments. Our platform is designed to help you build a truly diversified portfolio." }
     ]
   },
   "cta": {
@@ -119,6 +119,6 @@
     "button": "Get Started"
   },
   "footer": {
-    "copyright": "2025 Copyright © Aset. All rights reserved."
+    "copyright": "2025 Copyright © APXLBS. All rights reserved."
   }
 }

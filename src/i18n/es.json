@@ -106,11 +106,11 @@
   "faq": {
     "title": "FAQ",
     "items": [
-      { "q": "¿Cómo es Aset diferente?", "a": "Aset no es solo otra plataforma de inversión—está impulsada por IA en tiempo real que se adapta a los cambios del mercado, automatiza tus estrategias y refina constantemente tu cartera. A diferencia de las herramientas tradicionales que dependen de entradas estáticas o acciones manuales, Aset te ayuda a moverte más rápido, más inteligente y con mucha más claridad." },
-      { "q": "¿Es Aset adecuado para principiantes?", "a": "¡Absolutamente! Aset está diseñado para usuarios de todos los niveles de experiencia. Nuestra interfaz intuitiva y recomendaciones guiadas por IA facilitan que los principiantes comiencen, mientras que los usuarios avanzados pueden acceder a potentes opciones de personalización." },
-      { "q": "¿Qué tan seguros están mis datos y cartera en Aset?", "a": "La seguridad es nuestra máxima prioridad. Usamos encriptación de nivel bancario, autenticación de dos factores y auditorías de seguridad regulares para asegurar que tus datos e inversiones estén siempre protegidos." },
+      { "q": "¿Cómo es APXLBS diferente?", "a": "APXLBS no es solo otra plataforma de inversión—está impulsada por IA en tiempo real que se adapta a los cambios del mercado, automatiza tus estrategias y refina constantemente tu cartera. A diferencia de las herramientas tradicionales que dependen de entradas estáticas o acciones manuales, APXLBS te ayuda a moverte más rápido, más inteligente y con mucha más claridad." },
+      { "q": "¿Es APXLBS adecuado para principiantes?", "a": "¡Absolutamente! APXLBS está diseñado para usuarios de todos los niveles de experiencia. Nuestra interfaz intuitiva y recomendaciones guiadas por IA facilitan que los principiantes comiencen, mientras que los usuarios avanzados pueden acceder a potentes opciones de personalización." },
+      { "q": "¿Qué tan seguros están mis datos y cartera en APXLBS?", "a": "La seguridad es nuestra máxima prioridad. Usamos encriptación de nivel bancario, autenticación de dos factores y auditorías de seguridad regulares para asegurar que tus datos e inversiones estén siempre protegidos." },
       { "q": "¿Puedo personalizar mi estrategia de inversión?", "a": "¡Sí! Puedes establecer tu tolerancia al riesgo, objetivos de inversión y preferencias. Nuestra IA luego adaptará estrategias específicamente para tu perfil, permitiendo ajustes manuales en cualquier momento." },
-      { "q": "¿Qué tipo de activos puedo gestionar con Aset?", "a": "Aset soporta una amplia gama de activos incluyendo acciones, ETFs, bonos, criptomonedas e inversiones alternativas. Nuestra plataforma está diseñada para ayudarte a construir una cartera verdaderamente diversificada." }
+      { "q": "¿Qué tipo de activos puedo gestionar con APXLBS?", "a": "APXLBS soporta una amplia gama de activos incluyendo acciones, ETFs, bonos, criptomonedas e inversiones alternativas. Nuestra plataforma está diseñada para ayudarte a construir una cartera verdaderamente diversificada." }
     ]
   },
   "cta": {
@@ -119,6 +119,6 @@
     "button": "Empezar Ahora"
   },
   "footer": {
-    "copyright": "2025 Copyright © Aset. Todos los derechos reservados."
+    "copyright": "2025 Copyright © APXLBS. Todos los derechos reservados."
   }
 }
