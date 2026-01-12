@@ -43,27 +43,31 @@ Acesse `http://localhost:5173` no navegador.
 
 ### PASSO 6: Push para GitHub
 
+**Opção 1: Usando o script automático (Recomendado)**
+
 No terminal do Cursor:
 
 ```bash
-# Inicializar Git
-git init
+# Execute o script (substitua SEU_USERNAME e NOME_DO_REPOSITORIO)
+./setup-github.sh SEU_USERNAME NOME_DO_REPOSITORIO
 
-# Adicionar todos os arquivos
-git add .
+# Exemplo:
+# ./setup-github.sh rodrigoteixeira apxlbs-site
+```
 
-# Primeiro commit
-git commit -m "Initial commit - APXLBS site"
+**Opção 2: Manualmente**
 
-# Configurar branch principal
-git branch -M main
+Se preferir fazer manualmente:
 
-# Conectar ao repositório (SUBSTITUA pelo seu username)
-git remote add origin https://github.com/SEU_USERNAME/apxlbs-site.git
+```bash
+# Conectar ao repositório (SUBSTITUA pelo seu username e nome do repositório)
+git remote add origin https://github.com/SEU_USERNAME/NOME_DO_REPOSITORIO.git
 
 # Enviar para GitHub
 git push -u origin main
 ```
+
+> **Nota:** O Git já está inicializado e o commit inicial já foi feito! Você só precisa conectar ao seu repositório GitHub.
 
 ### PASSO 7: Deploy na Vercel
 
