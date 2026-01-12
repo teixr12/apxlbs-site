@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "home": "Início",
+    "feature": "Recursos",
+    "benefit": "Benefícios",
+    "pricing": "Preços",
+    "testimonials": "Depoimentos",
+    "faq": "FAQ",
+    "getStarted": "Começar"
+  },
+  "hero": {
+    "ticker": "Inovação Impulsionada por IA",
+    "title": "Transforme Sua Ideia em Software em 30 Dias",
+    "subtitle": "Capacitando Equipes de Operações Empresariais a Reduzir Custos, Aumentar Eficiência e Automatizar Fluxos de Trabalho com Soluções de IA Especializadas.",
+    "cta": "Começar Agora",
+    "ctaSecondary": "Saiba Mais",
+    "trustedBy": "Já utilizado por mais de 1.2k+"
+  },
+  "trust": {
+    "title": "Confiado por equipes inovadoras"
+  },
+  "easier": {
+    "title": "Mais Fácil & Inteligente",
+    "desc": "Isso nos permite identificar oportunidades de investimento que maximizam retornos para nossos clientes.",
+    "cta": "Saiba Mais"
+  },
+  "bento": {
+    "mainTitle": "Invista com Confiança. Respaldado por Inteligência.",
+    "card1Title": "Crescimento de Portfólio Orientado por Precisão",
+    "card1Desc": "Cada movimento guiado por dados e insights para um crescimento mais inteligente do portfólio.",
+    "card2Title": "Ativos Diversificados",
+    "card2Desc": "Personalize seu portfólio para alcançar desempenho ideal.",
+    "card3Title": "Seu Portfólio, Otimizado em Tempo Real",
+    "card3Desc": "Ajustado instantaneamente com mudanças de mercado para melhorar a eficiência do investimento.",
+    "card4Title": "Maximize Retornos, Minimize Esforço",
+    "card4Desc": "Um sistema de investimento totalmente automatizado que economiza seu tempo e preocupação."
+  },
+  "smarter": {
+    "title": "Investimento Inteligente Começa Aqui",
+    "card1Title": "Rastreamento Transparente de Desempenho",
+    "card1Desc": "Monitore o crescimento do portfólio com análises em tempo real e fáceis de ler.",
+    "card2Title": "Alocação de Ativos Integrada",
+    "card2Desc": "Equilibre investimentos entre classes de ativos para melhores retornos.",
+    "card3Title": "Gestão Inteligente de Riscos",
+    "card3Desc": "IA analisa volatilidade e tendências para minimizar exposição ao risco.",
+    "cta": "Saiba Mais"
+  },
+  "benefits": {
+    "title": "Investimento Inteligente. Resultados Fortes",
+    "items": [
+      { "title": "Estratégias com IA", "desc": "Estratégias adaptativas impulsionadas por machine learning em tempo real." },
+      { "title": "Otimização de Portfólio", "desc": "Rebalanceamento inteligente para maximizar retornos e controlar riscos efetivamente." },
+      { "title": "Insights em Tempo Real", "desc": "Análises ao vivo fornecem clareza para cada decisão de investimento." },
+      { "title": "Execução Automatizada", "desc": "Execução perfeita do sinal à negociação, com precisão e velocidade." },
+      { "title": "Gestão Adaptativa de Riscos", "desc": "Modelos de IA ajustam exposição com base em dinâmicas de mercado e volatilidade." },
+      { "title": "Rastreamento de Desempenho", "desc": "Monitore o desempenho em tempo real com métricas claras e relatórios visuais." }
+    ]
+  },
+  "stats": {
+    "title": "Desempenho Que Você Pode Medir",
+    "items": [
+      { "value": "98.7%", "label": "Taxa de Retenção de Clientes" },
+      { "value": "$250M+", "label": "Ativos Gerenciados" },
+      { "value": "120+", "label": "Estratégias Automatizadas" }
+    ]
+  },
+  "pricing": {
+    "title": "Opções de Preços",
+    "subtitle": "Escolha o plano de assinatura que atende às suas necessidades",
+    "monthly": "Mensal",
+    "yearly": "Anual",
+    "plan1": {
+      "name": "Pacote Sprint",
+      "price": "$10,000",
+      "priceYearly": "$8,000",
+      "period": "Cobrado mensalmente",
+      "periodYearly": "Cobrado anualmente",
+      "features": ["0.4% taxa de gestão", "Rebalanceamento com IA", "Insights de mercado", "Suporte de consultor"],
+      "cta": "Começar"
+    },
+    "plan2": {
+      "name": "Plano Vision",
+      "badge": "Melhor valor",
+      "price": "$2,099",
+      "priceYearly": "$1,799",
+      "period": "Cobrado mensalmente",
+      "periodYearly": "Cobrado anualmente",
+      "features": ["0.2%–0.4% taxa de gestão", "Estratégias avançadas de IA", "2.75% juros em caixa", "Acesso à equipe de investimento", "Suporte prioritário & onboarding"],
+      "cta": "Fazer Upgrade"
+    }
+  },
+  "testimonials": {
+    "title": "Confiado por Investidores Visionários",
+    "subtitle": "Histórias reais de usuários que transformaram sua experiência de investimento com insights impulsionados por IA.",
+    "items": [
+      { "name": "Olivia Bennett", "role": "Gerente de Produto", "text": "A plataforma me deu clareza e confiança para gerenciar meus investimentos pessoais, mesmo com tempo limitado." },
+      { "name": "Ethan Carter", "role": "Consultor de Patrimônio", "text": "Uso diariamente para ajustar estratégias de portfólio—economiza horas e adiciona precisão." },
+      { "name": "Sofia Miller", "role": "Designer Freelancer", "text": "Como alguém nova em finanças, me senti empoderada por quão intuitiva e inteligente essa ferramenta é." },
+      { "name": "Daniel Brooks", "role": "Investidor Privado", "text": "Preciso, automatizado e surpreendentemente intuitivo. É assim que a gestão moderna de patrimônio deveria ser." },
+      { "name": "Marcus Reed", "role": "Analista de Cripto", "text": "Os insights de IA me ajudaram a equilibrar risco entre ativos tradicionais e cripto perfeitamente." },
+      { "name": "Isabelle Turner", "role": "Diretora de Operações", "text": "Aprecio a transparência—o rastreamento em tempo real torna nossos relatórios internos muito mais fáceis." },
+      { "name": "Noah Hayes", "role": "Engenheiro de IA", "text": "Valorizo os algoritmos inteligentes por trás do produto—finalmente, tecnologia que entende o mercado como um humano." },
+      { "name": "Jenna Wallace", "role": "Fundadora de Startup", "text": "Nossa equipe usa o dashboard empresarial para monitorar atividade de tesouraria—tornou-se essencial." }
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      { "q": "Como o Aset é diferente?", "a": "Aset não é apenas mais uma plataforma de investimento—é alimentada por IA em tempo real que se adapta às mudanças do mercado, automatiza suas estratégias e refina constantemente seu portfólio. Diferente de ferramentas tradicionais que dependem de entradas estáticas ou ações manuais, Aset ajuda você a se mover mais rápido, mais inteligente e com muito mais clareza." },
+      { "q": "O Aset é adequado para iniciantes?", "a": "Absolutamente! Aset é projetado para usuários de todos os níveis de experiência. Nossa interface intuitiva e recomendações guiadas por IA tornam fácil para iniciantes começarem, enquanto usuários avançados podem acessar opções poderosas de personalização." },
+      { "q": "Quão seguros estão meus dados e portfólio no Aset?", "a": "Segurança é nossa principal prioridade. Usamos criptografia de nível bancário, autenticação de dois fatores e auditorias regulares de segurança para garantir que seus dados e investimentos estejam sempre protegidos." },
+      { "q": "Posso personalizar minha estratégia de investimento?", "a": "Sim! Você pode definir sua tolerância ao risco, objetivos de investimento e preferências. Nossa IA então adaptará estratégias especificamente para seu perfil, permitindo ajustes manuais a qualquer momento." },
+      { "q": "Que tipo de ativos posso gerenciar com o Aset?", "a": "Aset suporta uma ampla gama de ativos incluindo ações, ETFs, títulos, criptomoedas e investimentos alternativos. Nossa plataforma é projetada para ajudá-lo a construir um portfólio verdadeiramente diversificado." }
+    ]
+  },
+  "cta": {
+    "title": "Comece a Investir de Forma Inteligente Hoje",
+    "subtitle": "Aproveite o poder da IA para fazer seu portfólio crescer com confiança e clareza.",
+    "button": "Começar Agora"
+  },
+  "footer": {
+    "copyright": "2025 Copyright © Aset. Todos os direitos reservados."
+  }
+}

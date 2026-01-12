@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "home": "Home",
+    "feature": "Feature",
+    "benefit": "Benefit",
+    "pricing": "Pricing",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "ticker": "Innovation Powered by AI",
+    "title": "Transform Your Idea into Software in 30 Days",
+    "subtitle": "Empowering Enterprise Operations Teams to Slash Costs, Boost Efficiency, and Automate Workflows with Expertly Crafted AI Solutions.",
+    "cta": "Get Started",
+    "ctaSecondary": "Learn More",
+    "trustedBy": "Trusted already by 1.2k+"
+  },
+  "trust": {
+    "title": "Trusted by top innovative teams"
+  },
+  "easier": {
+    "title": "Easier & Smarter",
+    "desc": "This allows us to identify investment opportunities that maximize returns for our clients.",
+    "cta": "Learn More"
+  },
+  "bento": {
+    "mainTitle": "Invest with Confidence. Backed by Intelligence.",
+    "card1Title": "Precision-Driven Portfolio Growth",
+    "card1Desc": "Every move guided by data and insights for smarter portfolio growth.",
+    "card2Title": "Diversified Assets",
+    "card2Desc": "Tailor your portfolio to achieve optimal performance.",
+    "card3Title": "Your Portfolio, Optimized in Real-Time",
+    "card3Desc": "Adjusted instantly with market changes to enhance investment efficiency.",
+    "card4Title": "Maximize Returns, Minimize Effort",
+    "card4Desc": "A fully automated investment system that saves you time and worry."
+  },
+  "smarter": {
+    "title": "Smarter Investing Starts Here",
+    "card1Title": "Transparent Performance Tracking",
+    "card1Desc": "Monitor portfolio growth with real-time, easy-to-read analytics.",
+    "card2Title": "Seamless Asset Allocation",
+    "card2Desc": "Balance investments across asset classes for better returns.",
+    "card3Title": "Smart Risk Management",
+    "card3Desc": "AI analyzes volatility and trends to minimize risk exposure.",
+    "cta": "Learn More"
+  },
+  "benefits": {
+    "title": "Smarter Investing. Stronger Outcomes",
+    "items": [
+      { "title": "AI-Powered Strategies", "desc": "Adaptive strategies driven by real-time machine learning." },
+      { "title": "Portfolio Optimization", "desc": "Smart rebalancing to maximize returns and control risk effectively." },
+      { "title": "Real-Time Insights", "desc": "Live analytics provide clarity for every investment decision." },
+      { "title": "Automated Execution", "desc": "Seamless execution from signal to trade, with precision and speed." },
+      { "title": "Adaptive Risk Management", "desc": "AI models adjust exposure based on changing market dynamics and volatility." },
+      { "title": "Performance Tracking", "desc": "Monitor performance in real-time with clear metrics and visual reporting." }
+    ]
+  },
+  "stats": {
+    "title": "Performance You Can Measure",
+    "items": [
+      { "value": "98.7%", "label": "Client Retention Rate" },
+      { "value": "$250M+", "label": "Assets Managed" },
+      { "value": "120+", "label": "Automated Strategies" }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing Options",
+    "subtitle": "Choose the subscription plan that suits your needs",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "plan1": {
+      "name": "Sprint Package",
+      "price": "$10,000",
+      "priceYearly": "$8,000",
+      "period": "Billed monthly",
+      "periodYearly": "Billed yearly",
+      "features": ["0.4% management fee", "AI rebalancing", "Market insights", "Advisor support"],
+      "cta": "Get Started"
+    },
+    "plan2": {
+      "name": "Vision Plan",
+      "badge": "Best value",
+      "price": "$2,099",
+      "priceYearly": "$1,799",
+      "period": "Billed monthly",
+      "periodYearly": "Billed yearly",
+      "features": ["0.2%–0.4% management fee", "Advanced AI strategies", "2.75% cash interest", "Investment team access", "Priority support & onboarding"],
+      "cta": "Upgrade Now"
+    }
+  },
+  "testimonials": {
+    "title": "Trusted by Forward-Thinking Investors",
+    "subtitle": "Real stories from users who've transformed their investment experience with AI-driven insights.",
+    "items": [
+      { "name": "Olivia Bennett", "role": "Product Manager", "text": "The platform gave me clarity and confidence in managing my personal investments, even with limited time." },
+      { "name": "Ethan Carter", "role": "Wealth Advisor", "text": "I use it daily to fine-tune portfolio strategies—it saves hours and adds accuracy." },
+      { "name": "Sofia Miller", "role": "Freelance Designer", "text": "As someone new to finance, I felt empowered by how intuitive and intelligent this tool is." },
+      { "name": "Daniel Brooks", "role": "Private Investor", "text": "Accurate, automated, and surprisingly intuitive. This is what modern wealth management should feel like." },
+      { "name": "Marcus Reed", "role": "Crypto Analyst", "text": "The AI insights helped me balance risk across both traditional and crypto assets seamlessly." },
+      { "name": "Isabelle Turner", "role": "Operations Director", "text": "I appreciate the transparency—real-time tracking makes our internal reporting much easier." },
+      { "name": "Noah Hayes", "role": "AI Engineer", "text": "I value the smart algorithms behind the product—finally, tech that understands the market like a human." },
+      { "name": "Jenna Wallace", "role": "Startup Founder", "text": "Our team uses the enterprise dashboard to monitor treasury activity—it's become essential." }
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      { "q": "How is Aset different?", "a": "Aset isn't just another investment platform—it's powered by real-time AI that adapts to market changes, automates your strategies, and constantly refines your portfolio. Unlike traditional tools that rely on static inputs or manual actions, Aset helps you move faster, smarter, and with far more clarity." },
+      { "q": "Is Aset suitable for beginners?", "a": "Absolutely! Aset is designed for users of all experience levels. Our intuitive interface and AI-guided recommendations make it easy for beginners to get started, while advanced users can access powerful customization options." },
+      { "q": "How secure is my data and portfolio on Aset?", "a": "Security is our top priority. We use bank-level encryption, two-factor authentication, and regular security audits to ensure your data and investments are always protected." },
+      { "q": "Can I customize my investment strategy?", "a": "Yes! You can set your risk tolerance, investment goals, and preferences. Our AI will then tailor strategies specifically for your profile while allowing manual adjustments at any time." },
+      { "q": "What kind of assets can I manage with Aset?", "a": "Aset supports a wide range of assets including stocks, ETFs, bonds, cryptocurrencies, and alternative investments. Our platform is designed to help you build a truly diversified portfolio." }
+    ]
+  },
+  "cta": {
+    "title": "Start Investing Smarter Today",
+    "subtitle": "Harness the power of AI to grow your portfolio with confidence and clarity.",
+    "button": "Get Started"
+  },
+  "footer": {
+    "copyright": "2025 Copyright © Aset. All rights reserved."
+  }
+}
